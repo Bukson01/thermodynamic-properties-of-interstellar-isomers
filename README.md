@@ -1,6 +1,9 @@
 # Thermodynamic-properties-of-interstellar-isomers
 Analyzing the interstellar isomers data with 4 and 5 atoms.
 
+
+![G4_Entropy](https://github.com/Bukson01/thermodynamic-properties-of-interstellar-isomers/assets/81016410/50320dc0-d0dd-44e3-9a08-57b21808b6d0) G4_Entropy
+
 # About Dataset
 The data provided in each of the corresponding file, contains the partition functions and its values which we used to analyze and observe the results obtained.
 
